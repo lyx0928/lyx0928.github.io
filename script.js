@@ -169,7 +169,6 @@ document.addEventListener("DOMContentLoaded", function() {
     { part: 'a8a723bae010a7ac3613b', description: 'Psycho' },
     { part: 'a98c128dc189d204881f6', description: 'The Prestige' },
     { part: 'aac9c2261dddc287be719', description: "The Time Traveler's Wife" },
-    { part: 'ac70e87a474e44d16848a', description: 'Forrest Gump' },
     { part: 'ad546f51d92eb5c6bb176', description: 'Where Eagles Dare' },
     { part: 'ad67a9a3620beef4e178a', description: 'Matrix Revolutions' },
     { part: 'b0bd5ceb4545d6a1c7414', description: 'The Lost Weekend' },
